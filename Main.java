@@ -1,6 +1,10 @@
 public class Main {
 
-
+    /**
+     * @author Brianna Soriano
+     * @param n
+     * @return The nth term of the Fibonacci sequence
+     */
     static int fib(int n)
     {
         if (n==0||n==1)
